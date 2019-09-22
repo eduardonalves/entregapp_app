@@ -14,7 +14,7 @@
             <param name="domain" value="http://localhost/apps/master/"/>
             <param name="key" value="com.entregapp.entregapp"/>
           </feature>
-          <preference name="phonegap-version" value="cli-5.2.0" />
+          <preference name="phonegap-version" value="cli-6.5.0" />
 
         <!--  <gap:plugin name="https://github.com/object-layer/cordova-sqlite-plugin.git" source="npm" version="1.0.3" />-->
 
