@@ -1,7 +1,7 @@
 //Bloco de Configurações do aplicativo inicio
 var cliente ="";
 var empresa='1';
-var URLAPP = 'http://localhost/entregapp_sistema/';
+var URLAPP = 'http://192.168.1.108/entregapp_sistema/';
 var salt ="jmgl33mg1221kjgruyky232ho2l3437mhljio90hueemmgjktjmmmgko2tut35ymmmh221eenngl4y73kkkj";
 var filialPadrao="1";
 var prodId1='';
